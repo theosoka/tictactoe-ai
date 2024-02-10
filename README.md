@@ -1,2 +1,2 @@
 # tictactoe-ai
-project from jetbrains
+Jetbrains Academy project: TicTacToe with AI elements. Uses Minimax.
